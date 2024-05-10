@@ -1,5 +1,6 @@
 # Projeto_ImersaoIA_AluraGoogle-AEye
 Projeto da Imersão IA da Alura e Google - "AEye: Descrevendo Arte para Todos"
+![alt text](https://github.com/rodolfobsantos/Projeto_ImersaoIA_AluraGoogle-AEye/blob/main/aeye.png?raw=true)
 
 # AEye: Descrevendo Arte para Todos: Um Projeto de Acessibilidade com IA ✨
 Já imaginou poder "ver" uma obra de arte através das palavras? Este projeto utiliza o poder da Inteligência Artificial para tornar a arte mais acessível a pessoas com deficiência visual! 🎨
