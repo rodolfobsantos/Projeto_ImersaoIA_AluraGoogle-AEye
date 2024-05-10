@@ -10,9 +10,9 @@ Com a ajuda da API Google Generative AI e do modelo de linguagem Gemini, este sc
 Imagine poder sentir a textura áspera da tela de um Van Gogh, a frieza do mármore de um Michelangelo, ou a luz radiante de um Monet, tudo através das palavras! 🤩
 
 # Quer experimentar? 🚀
-1. **Clone este repositório:** git clone https://github.com/seu-usuario/seu-repositorio.git
-2. **Instale as dependências:** pip install -r requirements.txt
-3. **Substitua YOUR_API_KEY no script pela sua chave de API do Google Generative AI.**
+1. O script está linkado com o Google Colab
+2. **Substitua YOUR_API_KEY no script pela sua chave de API do Google Generative AI.**
+3. 
 4. **Coloque as imagens que deseja descrever na pasta /content**
 5. **Execute o script:** python seu_script.py
 O script irá gerar descrições em texto e também em áudio para cada imagem! 🎧
