@@ -17,7 +17,7 @@ Imagine poder sentir a textura áspera da tela de um Van Gogh, a frieza do márm
 # Quer experimentar? 🚀
 1. **O script está linkado com o Google Colab**
 2. **Coloque sua chave de API (API Key) do Google Gemini para utilizar o script**
-3. **Coloque as imagens que deseja descrever no Google Colab (botão de upload)**
+3. **Coloque as imagens deste repositório e outras que deseja descrever no Google Colab (botão de upload)**
 4. **Execute os blocos do código do Google Colab**
 
 O script irá gerar descrições em texto e também em áudio para cada imagem! 🎧
