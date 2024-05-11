@@ -9,6 +9,11 @@ Já imaginou poder "ver" uma obra de arte através das palavras? Este projeto ut
 Com a ajuda da API Google Generative AI e do modelo de linguagem Gemini, este script transforma imagens de obras de arte em descrições detalhadas e vívidas, focando em informações que podem ser percebidas por outros sentidos.
 Imagine poder sentir a textura áspera da tela de um Van Gogh, a frieza do mármore de um Michelangelo, ou a luz radiante de um Monet, tudo através das palavras! 🤩
 
+# Quesitos 🎨
+- **Utilidade:** AEye quebra barreiras, permitindo que pessoas com deficiência visual experimentem a arte através de descrições ricas e imersivas
+- **Criatividade:** Combinando IA e arte, AEye oferece uma nova perspectiva sobre a acessibilidade, abrindo portas para um mundo de possibilidades sensoriais
+- **Eficácia:** A-Eye utiliza o poder do Gemini para gerar descrições precisas e detalhadas, como um especialista de arte, tornando a arte verdadeiramente acessível a todos
+
 # Quer experimentar? 🚀
 1. **O script está linkado com o Google Colab**
 2. **Coloque sua chave de API (API Key) do Google Gemini para utilizar o script**
