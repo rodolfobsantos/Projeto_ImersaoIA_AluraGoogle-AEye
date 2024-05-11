@@ -19,6 +19,6 @@ O script irá gerar descrições em texto e também em áudio para cada imagem! 
 # Contribua! 🤝
 Este projeto é open source e está em constante evolução. Se você quer tornar a arte mais acessível, junte-se a nós!
 - **Compartilhe suas ideias e sugestões.**
-**. Contribua com código para melhorar o projeto.**
-**. Divulgue o projeto para que mais pessoas possam se beneficiar!**
+- **Contribua com código para melhorar o projeto.**
+- **Divulgue o projeto para que mais pessoas possam se beneficiar!**
 **Juntos, podemos fazer a diferença!** 🤩
