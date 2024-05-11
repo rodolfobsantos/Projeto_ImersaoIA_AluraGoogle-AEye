@@ -12,7 +12,7 @@ Imagine poder sentir a textura áspera da tela de um Van Gogh, a frieza do márm
 # Quesitos 🎨
 - **Utilidade:** AEye quebra barreiras, permitindo que pessoas com deficiência visual experimentem a arte através de descrições ricas e imersivas
 - **Criatividade:** Combinando IA e arte, AEye oferece uma nova perspectiva sobre a acessibilidade, abrindo portas para um mundo de possibilidades sensoriais
-- **Eficácia:** A-Eye utiliza o poder do Gemini para gerar descrições precisas e detalhadas, como um especialista de arte, tornando a arte verdadeiramente acessível a todos
+- **Eficácia:** AEye utiliza o poder do Gemini para gerar descrições precisas e detalhadas, como um especialista de arte, tornando a arte verdadeiramente acessível a todos
 
 # Quer experimentar? 🚀
 1. **O script está linkado com o Google Colab**
